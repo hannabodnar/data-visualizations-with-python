@@ -11,7 +11,7 @@ Collection of small data analysis/visualization projects in python.
 - weather_atl.png
 - atl_weather.csv 
 
-**Project 2: Rolling Dice**
+**Project II: Rolling Dice**
 
 Created a class for a 8-sided die, then imported the class to create a visualization for the frequency of the results. Two dice were used, an 8-sided die and 12-sided die. The dice were rolled 30,000 times. 
 - rolling_die.py
