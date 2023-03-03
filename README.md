@@ -17,3 +17,9 @@ Created a class for a 8-sided die, then imported the class to create a visualiza
 - rolling_die.py
 - die_visual.py
 - d8_d12.png
+
+### **Project III: Global Earthquakes**
+
+Worked with global earthquake data in JSON format to map the magnitudes and locations of the earthquakes on a global scale. Data can be found here: https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php
+- earthquakes.py
+- earthquakes.png
